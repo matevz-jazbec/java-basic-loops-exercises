@@ -1,7 +1,7 @@
-# Java ASCII Patterns — Beginner Loop Exercises
+# Java Basic Loop Patterns
 
-A lightweight set of four beginner-friendly Java console exercises that draw ASCII patterns using nested loops.
-Each exercise lives in its own folder with a short README and one `.java` file containing the solution.
+A lightweight set of four beginner-friendly Java console exercises that draw simple console patterns using nested loops.
+Each exercise is in its own folder with a short README and one `.java` file containing the solution.
 
 **What you'll practice**
 - Nested `for` loops and iteration order
