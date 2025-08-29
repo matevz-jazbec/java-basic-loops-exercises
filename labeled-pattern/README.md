@@ -1,4 +1,4 @@
-# Labeled Pattern — Code-to-Output Exercise
+# Labeled Pattern: Code-to-Output Exercise
 
 The code is provided in the file: LabeledPattern.java. Your task is to read the code and predict what it prints for a given `n`, then run it to confirm your reasoning.
 
