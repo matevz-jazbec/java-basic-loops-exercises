@@ -18,16 +18,6 @@ Concepts practiced: reading code to infer behavior, labeled `continue`, nested l
 
 ---
 
-## Hints
-
-- The outer loop is labeled (e.g., `rowLoop:`).  
-- When the code hits the main diagonal (`j == i`), it prints a newline and `continue rowLoop;` — jumping to the next row immediately.  
-- Only positions left of the diagonal (`j < i`) are printed.  
-- On those positions, the code alternates between printing `*` and the row index (`i`, which is 0-based). You can derive the rule using parity (even/odd) of `i` and `j`.  
-- The very first row (`i = 0`) prints nothing left of the diagonal, so the first line is empty.
-
----
-
 ## (Optional) Spoiler — sample output for `n = 7`
 
 <details>
