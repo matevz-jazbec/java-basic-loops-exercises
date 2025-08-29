@@ -28,6 +28,8 @@ Each exercise lives in its own folder with a short README and one `.java` file c
 ├─ labeled-pattern/
 │  ├─ LabeledPattern.java
 │  └─ README.md
+├─ LICENSE
+├─ .gitignore
 └─ README.md              # (this file)
 ```
 
