@@ -33,7 +33,7 @@ Each exercise lives in its own folder with a short README and one `.java` file c
 └─ README.md              # (this file)
 ```
 
-> All solutions are self-contained (no packages) so you can compile/run each from its folder.
+Each exercise is independent and does not use Java packages, so you can compile and run it directly from its folder.
 
 ---
 
