@@ -39,19 +39,6 @@ For `n = 3` (width = 9, height = 5):
 
 ---
 
-## Hints
-
-- Compute dimensions first: `int width = 3 * n; int height = n + 2;`
-- A cell `(row, col)` is on the border if `row == 0 || row == height - 1 || col == 0 || col == width - 1`.
-- The center column is `int center = width / 2;` (integer division).
-- For each row:
-  - If the cell is border → print `*`.
-  - Else if `col == center` → print `*`.
-  - Else → print a space.
-- End each row with `System.out.println();`
-
----
-
 ## How to compile and run
 
 From the `window` directory:
