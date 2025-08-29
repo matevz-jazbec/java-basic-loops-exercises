@@ -40,16 +40,16 @@ Each exercise is independent and does not use Java packages, so you can compile 
 ## Exercises (overview)
 
 - **Sandglass** — symmetric hourglass of `*` with spaces elsewhere.  
-  *Solution:* `sandglass/Sandglass.java` · *Method:* `sandglass(int n)` · [README](sandglass/README.md)
+  *Solution:* `sandglass/Sandglass.java` · [README](sandglass/README.md)
 
 - **Window** — rectangle with full border and a vertical bar in the center.  
-  *Solution:* `window/Window.java` · *Method:* `window(int n)` (current demo uses `n = 3`) · [README](window/README.md)
+  *Solution:* `window/Window.java` · [README](window/README.md)
 
 - **Number Square** — `n × n` grid of numbers that increase from edges (uses `Math.min(row+1, col+1)`).  
-  *Solution:* `number-square/NumberSquare.java` · *Method:* `numberSquare(int n)` · [README](number-square/README.md)
+  *Solution:* `number-square/NumberSquare.java` · [README](number-square/README.md)
 
 - **Labeled Pattern (code-to-output)** — read the given code, predict the output; shows a labeled `continue` and diagonal skip.  
-  *Solution:* `labeled-pattern/LabeledPattern.java` · *Method:* `labeledPattern(int n)` · [README](labeled-pattern/README.md)
+  *Solution:* `labeled-pattern/LabeledPattern.java` · [README](labeled-pattern/README.md)
 
 ---
 
@@ -65,4 +65,4 @@ javac Sandglass.java
 java Sandglass
 ```
 
-Each folder README explains the expected output and any notes (e.g., whether `n` is fixed in code or read from CLI arguments).
+Each folder README contains the expected output and other notes.
