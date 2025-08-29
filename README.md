@@ -18,7 +18,7 @@ Each exercise is in its own folder with a short README and one `.java` file cont
 /
 ├─ sandglass/
 │  ├─ Sandglass.java      # solution
-│  └─ README.md           # task, example output, hints, run instructions
+│  └─ README.md           # task, example output, run instructions
 ├─ window/
 │  ├─ Window.java
 │  └─ README.md
