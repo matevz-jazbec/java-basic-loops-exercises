@@ -1,0 +1,6 @@
+# Java
+*.class
+*.log
+
+# macOS
+.DS_Store
