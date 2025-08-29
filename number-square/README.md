@@ -35,17 +35,6 @@ For `n = 7`:
 
 ---
 
-## Hints
-
-- Use 0-based indices for loops and convert to 1-based only when printing:
-  ```java
-  int value = Math.min(row + 1, col + 1);
-  ```
-- Print digits without spaces between them for a compact look.
-- End each row with `System.out.println();`
-
----
-
 ## How to compile and run
 
 From the `number-square` directory:
