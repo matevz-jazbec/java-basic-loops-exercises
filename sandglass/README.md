@@ -38,16 +38,6 @@ For `n = 7`:
 
 ---
 
-## Hints
-
-- Index rows `0..n-1` and columns `0..n-1`.
-- **Top half** (including the middle when `n` is odd): for row `i`, print `i` leading spaces, then `n - 2*i` stars.
-- **Bottom half**: mirror the top — iterate `i` from `n/2 - 1` down to `0` and reuse the same spacing/stars logic.
-- Guard early for invalid input: return immediately when `n <= 0`.
-- Keep printing on a single line with `System.out.print(...)`; end each row with `System.out.println()`.
-
----
-
 ## How to compile and run
 
 From the `sandglass` directory:
