@@ -1,6 +1,6 @@
 # Java Basic Loop Patterns
 
-A lightweight set of beginner-friendly Java console exercises that draw simple console patterns using nested loops. These are study exercises from university coursework. Solutions implemented by me as part of coursework.
+A set of beginner-friendly Java console exercises that draw simple console patterns using nested loops. These are study exercises from university coursework. Solutions implemented by me as part of coursework.
 
 ## Purpose
 
