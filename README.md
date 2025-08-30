@@ -1,8 +1,10 @@
 # Java Basic Loop Patterns
 
-A lightweight set of four beginner-friendly Java console exercises that draw simple console patterns using nested loops.
-Each exercise is in its own folder with a short README and one `.java` file containing the solution.
-These are study exercises from university coursework. Solutions implemented by me as part of coursework.
+A lightweight set of beginner-friendly Java console exercises that draw simple console patterns using nested loops. These are study exercises from university coursework. Solutions implemented by me as part of coursework.
+
+## Purpose
+
+This repository is intended for **learning and practice**. Each exercise folder contains a short README with the original assignment. **Read the assignment first and try to solve it yourself**, then compare your approach with the provided Java solution. 
 
 **What you'll practice**
 - Nested `for` loops and iteration order
