@@ -2,6 +2,7 @@
 
 A lightweight set of four beginner-friendly Java console exercises that draw simple console patterns using nested loops.
 Each exercise is in its own folder with a short README and one `.java` file containing the solution.
+These are study exercises from university coursework. Solutions implemented by me as part of coursework.
 
 **What you'll practice**
 - Nested `for` loops and iteration order
