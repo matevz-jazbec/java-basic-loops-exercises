@@ -1,4 +1,4 @@
-# Java Basic Loop Patterns
+# Java Pattern Printing Exercises
 
 A set of beginner-friendly Java console exercises that draw simple console patterns using loops. These are study exercises from university coursework. Solutions implemented by me as part of coursework.
 
@@ -12,31 +12,6 @@ This repository is intended for **learning and practice**. Each exercise folder 
 - Diagonals in grids (`i == j`, `i + j == n - 1`)
 - Parameterizing size with `n`
 - Clean console output
-
----
-
-## Repository structure
-
-```
-/
-├─ sandglass/
-│  ├─ Sandglass.java      # solution
-│  └─ README.md           # task, example output, run instructions
-├─ window/
-│  ├─ Window.java
-│  └─ README.md
-├─ number-square/
-│  ├─ NumberSquare.java
-│  └─ README.md
-├─ labeled-pattern/
-│  ├─ LabeledPattern.java
-│  └─ README.md
-├─ LICENSE
-├─ .gitignore
-└─ README.md              # (this file)
-```
-
-Each exercise is independent and does not use Java packages, so you can compile and run it directly from its folder.
 
 ---
 
@@ -54,6 +29,9 @@ Each exercise is independent and does not use Java packages, so you can compile 
 - **Labeled Pattern (code-to-output)** — read the given code, predict the output; shows a labeled `continue` and diagonal skip.  
   *Solution:* `labeled-pattern/LabeledPattern.java` · [README](labeled-pattern/README.md)
 
+- **Chessboard** — prints an `n × n` chessboard, where each square is 2×2 characters.  
+  *Solutions:* `chessboard/Chessboard1.java`, `chessboard/Chessboard2.java` · [README](chessboard/README.md)
+
 ---
 
 ## Quick start
@@ -68,4 +46,7 @@ javac Sandglass.java
 java Sandglass
 ```
 
-Each folder README contains the expected output and other notes.
+## Notes
+
+- Each folder README contains the expected output and other notes.
+- Each exercise is independent and does not use Java packages, so you can compile and run it directly from its folder.
